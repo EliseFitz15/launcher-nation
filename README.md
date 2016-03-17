@@ -1,3 +1,9 @@
+## Practice challenge
+
+#### To access this challenge:
+  - `git clone https://github.com/EliseFitz15/launcher-nation`
+  - `cd launcher-nation`
+  - bundle and create your database
 
 This challenge is focused solely on **migrations**, **models**, and the database **schema**. The relevant files that will be checked are:
 * Include database constraints and model validations where appropriate.
